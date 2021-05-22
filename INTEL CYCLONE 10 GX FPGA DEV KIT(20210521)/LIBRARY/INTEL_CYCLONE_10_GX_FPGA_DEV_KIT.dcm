@@ -1,0 +1,1011 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0.9V
+D Power symbol creates a global label with name "0.9V"
+K 0.9V
+$ENDCMP
+#
+$CMP 0022232021
+D CONN HEADER VERT 2POS 2.54MM
+K connector
+F https://www.molex.com/webdocs/datasheets/pdf/en-us//0022232021_PCB_HEADERS.pdf
+$ENDCMP
+#
+$CMP 04023U120JAT2A
+D CAP CER 12PF 25V NP0 0402
+K 04023U120JAT2A
+F http://datasheets.avx.com/U-Series.pdf
+$ENDCMP
+#
+$CMP 04025A5R0CAT2A
+D CAP CER 5PF 50V NP0 0402
+K 04025A5R0CAT2A
+F https://datasheets.avx.com/C0GNP0-Dielectric.pdf
+$ENDCMP
+#
+$CMP 0475890001
+D CONN RCPT MICRO USB AB 5P SMD RA
+K connector
+F https://www.molex.com/pdm_docs/sd/475890001_sd.pdf
+$ENDCMP
+#
+$CMP 0747540101
+D CONN SFP+ CAGE PRESS-FIT R/A
+K connector
+F https://www.molex.com/pdm_docs/sd/747540101_sd.pdf
+$ENDCMP
+#
+$CMP 10CX220YF780E5G
+D IC Cyclone® 10 GX FPGA 284 I/O 780FBGA
+K 10CX220YF780E5G
+F https://www.mouser.vn/datasheet/2/612/c10gx-51001-1285325.pdf
+$ENDCMP
+#
+$CMP 10M08SAU169C8G
+D IC MAX® 10 FPGA 130 I/O 169UBGA
+K 10M08SAU169C8G
+F https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf
+$ENDCMP
+#
+$CMP 12063D226KAT2A
+D CAP CER 22UF 25V X5R 1206
+K 12063D226KAT2A
+F https://datasheets.avx.com/cx5r.pdf
+$ENDCMP
+#
+$CMP 1206AC102KAT1A
+D CAP CER 1000PF 1KV X7R 1206
+K 1206AC102KAT1A
+F http://datasheets.avx.com/AVX-HV_MLCC.pdf
+$ENDCMP
+#
+$CMP 12401610E4#2A
+D CONN RCP USB3.1 TYPEC 24P SMD RA
+K connector
+F http://www.amphenol-icc.com/media/wysiwyg/files/drawing/12401610e4x2a.pdf
+$ENDCMP
+#
+$CMP 150060SS75000
+D LED RED CLEAR 0603 SMD
+K 150060SS75000
+F https://katalog.we-online.de/led/datasheet/150060SS75000.pdf
+$ENDCMP
+#
+$CMP 150060VS75000
+D LED GREEN CLEAR 0603 SMD
+K 150060VS75000
+F https://katalog.we-online.de/led/datasheet/150060VS75000.pdf
+$ENDCMP
+#
+$CMP 434121043816
+D SWITCH TACTILE SPST-NO 0.05A 12V
+K 434121043816
+F https://www.we-online.de/katalog/datasheet/434121043816.pdf
+$ENDCMP
+#
+$CMP 510MCA50M0000AAGR
+D XTAL OSC XO 50.0000MHZ CMOS SMD
+K 510MCA50M0000AAGR
+F https://www.digikey.com/en/datasheets/silicon-labs/silicon-labs-si510-11
+$ENDCMP
+#
+$CMP 570FAA000759DGR
+D XTAL OSC XO 644.53125MHZ LVDS
+K 570FAA000759DGR
+F https://www.silabs.com/documents/public/data-sheets/si570.pdf
+$ENDCMP
+#
+$CMP 61001021121
+D CONN HEADER SMD 10POS 2.54MM
+K connector
+F https://katalog.we-online.de/em/datasheet/6100xx21121.pdf
+$ENDCMP
+#
+$CMP 74279228111
+D FERRITE BEAD 110 OHM 0603 1LN
+K 74279228111
+F https://katalog.we-online.de/pbs/datasheet/74279228111.pdf
+$ENDCMP
+#
+$CMP 742792780
+D FERRITE BEAD 220 OHM 0402 1LN
+K 742792780
+F https://katalog.we-online.de/pbs/datasheet/742792780.pdf
+$ENDCMP
+#
+$CMP 744025220
+D FIXED IND 22UH 500MA 575 MOHM
+K 744025220
+F https://www.we-online.de/katalog/datasheet/744025220.pdf
+$ENDCMP
+#
+$CMP 744316470
+D FIXED IND 4.7UH 4.6A 24.5 MOHM
+K 744316470
+F https://katalog.we-online.de/pbs/datasheet/744316470.pdf
+$ENDCMP
+#
+$CMP 744773122
+D FIXED IND 22UH 1A 370 MOHM SMD
+K 744773122
+F https://www.we-online.de/katalog/datasheet/744773122.pdf
+$ENDCMP
+#
+$CMP 88E1111-B2-NDC2C000
+D IC GIGE XCVR 10/100/1000BASE-T 2.5V 96-PIN BCC
+K 88E1111-B2-NDC2C000
+F https://www.marvell.com/content/dam/marvell/en/public-collateral/transceivers/marvell-phys-transceivers-alaska-88e1111-datasheet.pdf
+$ENDCMP
+#
+$CMP ABM8AIG-25.000MHZ-12-2Z-T3
+D CRYSTAL 25.0000MHZ 12PF SMD
+K ABM8AIG-25.000MHZ-12-2Z-T3
+F https://www.mouser.vn/datasheet/2/3/ABM8AIG-1775167.pdf
+$ENDCMP
+#
+$CMP ASP-134486-01
+D CONN ARRAY RCPT 400POS SMD GOLD
+K ASP-134486-01
+F https://www.digikey.com/en/products/detail/samtec-inc/ASP-134486-01/9695289
+$ENDCMP
+#
+$CMP C1005X5R1A225K050BC
+D CAP CER 2.2UF 10V X5R 0402
+K C1005X5R1A225K050BC
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey
+$ENDCMP
+#
+$CMP C1005X7R1C224K050BC
+D CAP CER 0.22UF 16V X7R 0402
+K C1005X7R1C224K050BC
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey
+$ENDCMP
+#
+$CMP C10_1.5V
+D Power symbol creates a global label with name "C10_1.5V"
+K C10_1.5V
+$ENDCMP
+#
+$CMP C10_VIO_ADJ
+D Power symbol creates a global label with name "C10_VIO_ADJ"
+K C10_VIO_ADJ
+$ENDCMP
+#
+$CMP C2012X5R1A476M125AC
+D CAP CER 47UF 10V X5R 0805
+K C2012X5R1A476M125AC
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey
+$ENDCMP
+#
+$CMP CC0402CRNPO9BN1R0
+D CAP CER 1PF 50V C0G/NPO 0402
+K CC0402CRNPO9BN1R0
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP CC0402JRNPO9BN150
+D CAP CER 15PF 50V C0G/NPO 0402
+K CC0402JRNPO9BN150
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP CC0402JRNPO9BN820
+D CAP CER 82PF 50V C0G/NPO 0402
+K CC0402JRNPO9BN820
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GP_NP0_16V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP CC0402KRX5R6BB474
+D CAP CER 0.47UF 10V X5R 0402
+K CC0402KRX5R6BB474
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X5R_4V-to-50V_26.pdf
+$ENDCMP
+#
+$CMP CC0402KRX7R7BB104
+D CAP CER 0.1UF 16V X7R 0402
+K CC0402KRX7R7BB104
+F https://www.mouser.vn/datasheet/2/281/murata_03122018_GCM_Series-1310150.pdf
+$ENDCMP
+#
+$CMP CC0402KRX7R7BB473
+D CAP CER 0.047UF 16V X7R 0402
+K CC0402KRX7R7BB473
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP CC0402KRX7R8BB472
+D CAP CER 4700PF 25V X7R 0402
+K CC0402KRX7R8BB472
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP CC0402KRX7R9BB102
+D CAP CER 1000PF 50V X7R 0402
+K CC0402KRX7R9BB102
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP CC0402KRX7R9BB821
+D CAP CER 820PF 50V X7R 0402
+K CC0402KRX7R9BB821
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X7R_6.3V-to-50V_18.pdf
+$ENDCMP
+#
+$CMP CC0603MRX5R5BB226
+D CAP CER 22UF 6.3V X5R 0603
+K CC0603MRX5R5BB226
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/mlcc/UPY-GPHC_X5R_4V-to-50V_26.pdf
+$ENDCMP
+#
+$CMP CGA2B2C0G1H101J050BA
+D CAP CER 100PF 50V C0G 0402
+K CGA2B2C0G1H101J050BA
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_automotive_general_en.pdf?ref_disty=digikey
+$ENDCMP
+#
+$CMP CL10A476MR8NZNE
+D CAP CER 47UF 4V X5R 0603
+K CL10A476MR8NZNE
+F http://www.samsungsem.com/kr/support/product-search/mlcc/CL10A476MR8NZNE.jsp
+$ENDCMP
+#
+$CMP CSD17313Q2T
+D MOSFET N-CH 30V 5A 6WSON
+K CSD17313Q2T
+F https://www.ti.com/lit/ds/symlink/csd17313q2.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1617463079110&ref_url=https%253A%252F%252Fwww.mouser.com%252F
+$ENDCMP
+#
+$CMP CX3225SB48000D0FPJC1
+D CRYSTAL 48.0000MHZ 8PF SMD
+K CX3225SB48000D0FPJC1
+F https://media.digikey.com/pdf/Data%20Sheets/AVX%20PDFs/CX3225SB48000D0FPJC1.pdf
+$ENDCMP
+#
+$CMP CY7C68013A-56LTXC
+D IC MCU USB PHERIPH FX2LP 56VQFN
+K CY7C68013A-56LTXC
+F https://www.cypress.com/file/138911/download
+$ENDCMP
+#
+$CMP ECS-3518-500-B-TR
+D XTAL OSC XO 50.0000MHZ HCMOS SMD
+K ECS-3518-500-B-TR
+F https://ecsxtal.com/store/pdf/ecs-3518-3525r.pdf
+$ENDCMP
+#
+$CMP EG2207
+D SWITCH SLIDE DPDT 200MA 30V
+K EG2207
+F http://spec_sheets.e-switch.com/specs/P040100.pdf
+$ENDCMP
+#
+$CMP EM2130H01QI
+D DC DC CONVERTER 1.35-3.6V
+K EM2130H01QI
+F https://www.mouser.vn/datasheet/2/612/em2130l02_12873-1609280.pdf
+$ENDCMP
+#
+$CMP EM2130L01QI
+D DC DC CONVERTER 0.7-1.325V
+K EM2130L01QI
+F https://www.mouser.vn/datasheet/2/612/em2130l02_12873-1609280.pdf
+$ENDCMP
+#
+$CMP EN6337QI
+D DC DC CONVERTER 0.6-6.285V
+K EN6337QI
+F https://www.mouser.vn/datasheet/2/612/en6337qi_05800-1098868.pdf
+$ENDCMP
+#
+$CMP EN6347QI
+D DC DC CONVERTER 0.6-6.24V
+K EN6347QI
+F https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/en6347qi_05991.pdf
+$ENDCMP
+#
+$CMP EP5348UI
+D DC DC CONVERTER 0.6-6.24V
+K EP5348UI
+F https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/en6347qi_05991.pdf
+$ENDCMP
+#
+$CMP ER2120QI
+D IC REG BUCK ADJUSTABLE 2A 24QFN
+K ER2120QI
+F http://www.altera.com/literature/ds/ds-1042_ED2120QI.pdf
+$ENDCMP
+#
+$CMP ER3105DI
+D IC REG BUCK ADJ 500MA 12DFN
+K ER3105DI
+F https://www.mouser.vn/datasheet/2/612/er3105di_09616-1666880.pdf
+$ENDCMP
+#
+$CMP ERA-2AEB302X
+D RES SMD 3K OHM 0.1% 1/16W 0402
+K ERA-2AEB302X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERA-3AEB241V
+D RES SMD 240 OHM 0.1% 1/10W 0603
+K ERA-3AEB241V
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERA-3AEB242V
+D RES SMD 2.4K OHM 0.1% 1/10W 0603
+K ERA-3AEB242V
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF1052X
+D RES SMD 10.5K OHM 1% 1/10W 0402
+K ERJ-2RKF1052X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF1201X
+D RES SMD 1.2K OHM 1% 1/10W 0402
+K ERJ-2RKF1201X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF1333X
+D RES SMD 133K OHM 1% 1/10W 0402
+K ERJ-2RKF1333X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF1911X
+D RES SMD 1.91K OHM 1% 1/10W 0402
+K ERJ-2RKF1911X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF2611X
+D RES SMD 2.61K OHM 1% 1/10W 0402
+K ERJ-2RKF2611X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF3323X
+D RES SMD 332K OHM 1% 1/10W 0402
+K ERJ-2RKF3323X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF5600X
+D RES SMD 560 OHM 1% 1/10W 0402
+K ERJ-2RKF5600X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF6490X
+D RES SMD 649 OHM 1% 1/10W 0402
+K ERJ-2RKF6490X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ERJ-2RKF9093X
+D RES SMD 909K OHM 1% 1/10W 0402
+K ERJ-2RKF9093X
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf
+$ENDCMP
+#
+$CMP ES1010SI
+D IC HOT SWAP CTRLR GP 8SOIC
+K ES1010SI
+F https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/es1010si_09617.pdf
+$ENDCMP
+#
+$CMP ESD5Z6.0T1G
+D TVS DIODE 6V 20.5V SOD523
+K ESD5Z6.0T1G
+F https://www.onsemi.com/pdf/datasheet/esd5z2.5t1-d.pdf
+$ENDCMP
+#
+$CMP ETH_2.5V
+D Power symbol creates a global label with name "ETH_2.5V"
+K ETH_2.5V
+$ENDCMP
+#
+$CMP EV1320QI
+D IC REG CONV DDR 1OUT 16QFN
+K EV1320QI
+F https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/ev1320qi_06831.pdf
+$ENDCMP
+#
+$CMP FA-128-24.0000MF10Z-W3
+D CRYSTAL 24.0000MHZ 12PF SMD
+K FA-128-24.0000MF10Z-W3
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_FA-128&lang=en
+$ENDCMP
+#
+$CMP FDMC8878
+D MOSFET N-CH 30V 9.6A/16.5A 8MLP
+K FDMC8878
+F https://rocelec.widen.net/view/pdf/c1odpiqhm9/FAIR-S-A0002365638-1.pdf?t.download=true&u=5oefqw
+$ENDCMP
+#
+$CMP FDV305N
+D MOSFET N-CH 20V 900MA SOT23
+K FDV305N
+F https://rocelec.widen.net/view/pdf/pytjdp0wde/ONSM-S-A0003587639-1.pdf?t.download=true&u=5oefqw
+$ENDCMP
+#
+$CMP FXMA2102UMX
+D IC TRNSLTR BIDIRECTIONAL 8MLP
+K FXMA2102UMX
+F https://www.onsemi.cn/PowerSolutions/document/FXMA2102-D.PDF
+$ENDCMP
+#
+$CMP GJM1555C1H270FB01D
+D CAP CER 27PF 50V C0G/NP0 0402
+K GJM1555C1H270FB01D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GJM1555C1H270FB01-01.pdf
+$ENDCMP
+#
+$CMP GRM155R60J475ME87D
+D CAP CER 4.7UF 6.3V X5R 0402
+K GRM155R60J475ME87D
+F https://www.murata.com/-/media/webrenewal/support/library/catalog/products/capacitor/ceramiccapacitor/c02e.ashx?la=en-us&cvid=20210120024548000000
+$ENDCMP
+#
+$CMP GRM155R61E105KA12D
+D CAP CER 1UF 25V X5R 0402
+K GRM155R61E105KA12D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf
+$ENDCMP
+#
+$CMP GRM155R71E223KA61D
+D CAP CER 0.022UF 25V X7R 0402
+K GRM155R71E223KA61D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71E223KA61-01.pdf
+$ENDCMP
+#
+$CMP GRM155R71E473KA88D
+D CAP CER 0.047UF 25V X7R 0402
+K GRM155R71E473KA88D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71E473KA88-01.pdf
+$ENDCMP
+#
+$CMP GRM155R71H103KA88D
+D CAP CER 10000PF 50V X7R 0402
+K GRM155R71H103KA88D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H103KA88-01.pdf
+$ENDCMP
+#
+$CMP GRM155R71H222KA01D
+D CAP CER 2200PF 50V X7R 0402
+K GRM155R71H222KA01D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71H222KA01-01.pdf
+$ENDCMP
+#
+$CMP GRM188R61E106MA73D
+D CAP CER 10UF 25V X5R 0603
+K GRM188R61E106MA73D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R61E106MA73-01.pdf
+$ENDCMP
+#
+$CMP GRM188R6YA475KE15D
+D CAP CER 4.7UF 35V X5R 0603
+K GRM188R6YA475KE15D
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R6YA475KE15-01.pdf
+$ENDCMP
+#
+$CMP GRM21BR61A226ME51L
+D CAP CER 22UF 10V X5R 0805
+K GRM21BR61A226ME51L
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61A226ME51-01.pdf
+$ENDCMP
+#
+$CMP GRM31CR60J107ME39L
+D CAP CER 100UF 6.3V X5R 1206
+K GRM31CR60J107ME39L
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J107ME39-01.pdf
+$ENDCMP
+#
+$CMP HD3SS3220IRNHR
+D IC DRP PORT CTLR USB-C 30WQFN
+K HD3SS3220IRNHR
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fhd3ss3220
+$ENDCMP
+#
+$CMP HFJ11-1G02ERL
+D CONN RJ-45 GIGABIT FASTJACK
+K HFJ11-1G02ERL
+F https://www.mouser.vn/datasheet/2/706/halo_HFJ11-1G02ERL-1217334.pdf
+$ENDCMP
+#
+$CMP IO_1.8V
+D Power symbol creates a global label with name "IO_1.8V"
+K IO_1.8V
+$ENDCMP
+#
+$CMP IS25WP256D-RHLE-TR
+D IC FLSH 256MBIT SPI/QUAD 24TFBGA
+K IS25WP256D-RHLE-TR
+F https://www.issi.com/WW/pdf/25LP-WP256D_128D.pdf
+$ENDCMP
+#
+$CMP IS43TR16256B-107MBLI
+D IC DRAM 4GBIT PARALLEL 96TWBGA
+K IS43TR16256B-107MBLI
+F https://www.mouser.vn/datasheet/2/198/43_46TR16256B_85120BL-1518528.pdf
+$ENDCMP
+#
+$CMP ISL80101IRAJZ
+D C REG LINEAR POS ADJ 1A 10DFN
+K ISL80101IRAJZ
+F https://www.renesas.com/us/en/document/dst/isl80101-adj-datasheet
+$ENDCMP
+#
+$CMP LT6656AIS6-1.25#TRMPBF
+D IC VREF SERIES 0.05% TSOT-23-6
+K LT6656AIS6-1.25#TRMPBF
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6656fc.pdf
+$ENDCMP
+#
+$CMP LTC2497CUHF#TRPBF
+D IC ADC 16BIT SIGMA-DELTA 38QFN
+K LTC2497CUHF#TRPBF
+F https://www.mouser.vn/datasheet/2/609/2497fb-1267645.pdf
+$ENDCMP
+#
+$CMP LTC4357IDCB#TRPBF
+D IC OR CTRLR N+1 6DFN
+K LTC4357IDCB#TRPBF
+F https://www.mouser.vn/datasheet/2/609/4357fd-1269235.pdf
+$ENDCMP
+#
+$CMP MAX811SEUS+T
+D IC SUPERVISOR 1 CHANNEL SOT143-4
+K MAX811SEUS+T
+F https://datasheets.maximintegrated.com/en/ds/MAX811-MAX812T.pdf
+$ENDCMP
+#
+$CMP MECT-110-01-M-D-RA1
+D CONN SFP+ RCPT 20POS SLD R/A SMD
+K connector
+F http://suddendocs.samtec.com/catalog_english/mect.pdf
+$ENDCMP
+#
+$CMP MMBD1205
+D DIODE ARRAY GP 100V 200MA SOT23
+K diode
+F https://rocelec.widen.net/view/pdf/wtew1o9e8l/ONSM-S-A0003587619-1.pdf?t.download=true&u=5oefqw
+$ENDCMP
+#
+$CMP MT25QU01GBBB8E12-0SIT_TR
+D C FLSH 1GBIT SPI 166MHZ 24TPBGA
+K MT25QU01GBBB8E12-0SIT_TR
+F https://media.digikey.com/pdf/Data%20Sheets/Micron%20Technology%20Inc%20PDFs/MT25QU01GBBB_DS.pdf
+$ENDCMP
+#
+$CMP MT28EW01GABA1LPC-0SIT_TR
+D IC FLASH 1GBIT PARALLEL 64LBGA
+K MT28EW01GABA1LPC-0SIT_TR
+F https://media.digikey.com/pdf/Data%20Sheets/Micron%20Technology%20Inc%20PDFs/MT28EWzzzABA1.pdf
+$ENDCMP
+#
+$CMP PD-40S
+D CONN JACK FMALE 4POS TIN SOLDER
+K connector
+F https://www.cuidevices.com/product/resource/digikeypdf/pd-40s.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07100KL
+D RES SMD 100K OHM 1% 1/16W 0402
+K RC0402FR-07100KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07100RL
+D RES SMD 100 OHM 1% 1/16W 0402
+K RC0402FR-07100RL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0710KL
+D RES SMD 10K OHM 1% 1/16W 0402
+K RC0402FR-0710KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0710ML
+D RES SMD 10M OHM 1% 1/16W 0402
+K RC0402FR-0710ML
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0710RL
+D RES SMD 10 OHM 1% 1/16W 0402
+K RC0402FR-0710RL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0711KL
+D RES SMD 11K OHM 1% 1/16W 0402
+K RC0402FR-0711KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07120KL
+D RES SMD 120K OHM 1% 1/16W 0402
+K RC0402FR-07120KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0712K4L
+D RES SMD 12.4K OHM 1% 1/16W 0402
+K RC0402FR-0712K4L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07143KL
+D RES SMD 143K OHM 1% 1/16W 0402
+K RC0402FR-07143KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0716K9L
+D RES SMD 16.9K OHM 1% 1/16W 0402
+K RC0402FR-0716K9L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-071KL
+D RES SMD 1K OHM 1% 1/16W 0402
+K RC0402FR-071KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-071RL
+D RES SMD 1 OHM 1% 1/16W 0402
+K RC0402FR-071RL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07200KL
+D RES SMD 200K OHM 1% 1/16W 0402
+K RC0402FR-07200KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0720KL
+D RES SMD 20K OHM 1% 1/16W 0402
+K RC0402FR-0720KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07220RL
+D RES SMD 220 OHM 1% 1/16W 0402
+K RC0402FR-07220RL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0722KL
+D RES SMD 22K OHM 1% 1/16W 0402
+K RC0402FR-0722KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07240RL
+D RES SMD 240 OHM 1% 1/16W 0402
+K RC0402FR-07240RL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07249KL
+D RES SMD 249K OHM 1% 1/16W 0402
+K RC0402FR-07249KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-072K74L
+D RES SMD 2.74K OHM 1% 1/16W 0402
+K RC0402FR-072K74L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-072KL
+D RES SMD 2K OHM 1% 1/16W 0402
+K RC0402FR-072KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07300KL
+D RES SMD 300K OHM 1% 1/16W 0402
+K RC0402FR-07300KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0733R2L
+D RES SMD 33.2 OHM 1% 1/16W 0402
+K RC0402FR-0733R2L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0736K5L
+D RES SMD 36.5K OHM 1% 1/16W 0402
+K RC0402FR-0736K5L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07390RL
+D RES SMD 390 OHM 1% 1/16W 0402
+K RC0402FR-07390RL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-073K3L
+D RES SMD 3.3K OHM 1% 1/16W 0402
+K RC0402FR-073K3L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07499KL
+D RES SMD 499K OHM 1% 1/16W 0402
+K RC0402FR-071KL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0749K9L
+D RES SMD 49.9K OHM 1% 1/16W 0402
+K RC0402FR-0749K9L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0749R9L
+D RES SMD 49.9 OHM 1% 1/16W 0402
+K RC0402FR-0749R9L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-074K7L
+D RES SMD 4.7K OHM 1% 1/16W 0402
+K RC0402FR-074K7L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-074K99L
+D RES SMD 4.99K OHM 1% 1/16W 0402
+K RC0402FR-074K99L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-07576RL
+D RES SMD 576 OHM 1% 1/16W 0402
+K RC0402FR-07576RL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0760K4L
+D RES SMD 60.4K OHM 1% 1/16W 0402
+K RC0402FR-0760K4L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-076K04L
+D RES SMD 6.04K OHM 1% 1/16W 0402
+K RC0402FR-076K04L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-078K06L
+D RES SMD 8.06K OHM 1% 1/16W 0402
+K RC0402FR-078K06L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402FR-0790K9L
+D RES SMD 90.9K OHM 1% 1/16W 0402
+K RC0402FR-0790K9L
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0402JR-070RL
+D RES SMD 0 OHM JUMPER 1/16W 0402
+K RC0402JR-070RL
+F https://www.mouser.vn/datasheet/2/447/PYu-RC_Group_51_RoHS_L_10-1664068.pdf
+$ENDCMP
+#
+$CMP RC0603FR-07100RL
+D RES SMD 100 OHM 1% 1/10W 0603
+K RC0603FR-07100RL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603FR-0710RL
+D RES SMD 10 OHM 1% 1/10W 0603
+K RC0603FR-0710RL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603JR-070RL
+D RES SMD 0 OHM JUMPER 1/10W 0603
+K RC0603JR-070RL
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC0603JR-075R1L
+D RES SMD 5.1 OHM 5% 1/10W 0603
+K RC0603JR-075R1L
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP RC1206FR-071ML
+D RES SMD 1M OHM 1% 1/4W 1206
+K RC1206FR-071ML
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_11.pdf
+$ENDCMP
+#
+$CMP SG-210STF_25.0000MY
+D XTAL OSC XO 25.0000MHZ CMOS SMD (2.50mm x 2.00mm)
+K SG-210STF_25.0000MY
+F https://www5.epsondevice.com/en/information/support/pdf/june_2018_psc_masterbook.pdf
+$ENDCMP
+#
+$CMP SI53307-B-GM
+D IC CLK BUFFER 2:4 725MHZ 16QFN
+K SI53307-B-GM
+F https://www.silabs.com/documents/public/data-sheets/Si53307.pdf
+$ENDCMP
+#
+$CMP SI5332A-D-GM2
+D PROG CLK GEN INTEGR/FRACT 40QFN
+K SI5332A-D-GM2
+F https://www.mouser.vn/datasheet/2/368/si5332_datasheet-1397863.pdf
+$ENDCMP
+#
+$CMP SM5545TEX-100-0M
+D XTAL OSC 100MHZ CMOS 3.2X5.0 LCC
+K SM5545TEX-100-0M
+F https://www.mouser.vn/datasheet/2/326/sm55t_1.8v-1144512.pdf
+$ENDCMP
+#
+$CMP SMA-J-P-H-ST-MT1
+D CONN SMA JACK STR 50 OHM SMD
+K SMA-J-P-H-ST-MT1
+F http://suddendocs.samtec.com/catalog_english/sma.pdf
+$ENDCMP
+#
+$CMP SMCJ12A
+D TVS DIODE 12V 19.9V DO214AB
+K SMCJ12A
+F https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diodes/littelfuse_tvs_diode_smcj_datasheet.pdf.pdf
+$ENDCMP
+#
+$CMP SN74AUP2G17DCK
+D IC BUF NON-INVERT 3.6V SC70-6
+K SN74AUP2G17DCK
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74aup2g17
+$ENDCMP
+#
+$CMP Si5340A-A-GM
+D IC CLK BUFFER PLL 44QFN
+K Si5340A-A-GM
+F https://www.mouser.vn/datasheet/2/368/Si5341_40_D_DataSheet-1316624.pdf
+$ENDCMP
+#
+$CMP T520B337M2R5ATE015
+D CAP TANT POLY 330UF 2.5V 1411
+K T520B337M2R5ATE015
+F https://content.kemet.com/datasheets/KEM_T2076_T52X-530.pdf
+$ENDCMP
+#
+$CMP T520D337M006ATE009
+D CAP TANT POLY 330UF 6.3V 2917
+K T520D337M006ATE009
+F https://content.kemet.com/datasheets/KEM_T2076_T52X-530.pdf
+$ENDCMP
+#
+$CMP TCA9534PWR
+D C I/O EXPANDER I2C 8B 16TSSOP
+K TCA9534PWR
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftca9534
+$ENDCMP
+#
+$CMP TCJD107M020R0055
+D CAP TANT POLY 100UF 20V 2917
+K TCJD107M020R0055
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey
+$ENDCMP
+#
+$CMP TDA02H0SB1R
+D SWITCH SLIDE DIP SPST 25MA 24V
+K TDA02H0SB1R
+F https://www.ckswitches.com/media/1328/tda.pdf
+$ENDCMP
+#
+$CMP TMK316BJ106KL-T
+D CAP CER 10UF 25V X5R 1206
+K TMK316BJ106KL-T
+F https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=UMK105CG121JV-F%20%20&u=M
+$ENDCMP
+#
+$CMP TMP512AIRSAT
+D IC TEMP SNSR DUAL REMOTE 16QFN
+K TMP512AIRSAT
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftmp513
+$ENDCMP
+#
+$CMP TPD2EUSB30DRTR
+D TVS DIODE 5.5V 8V SOT3
+K TPD2EUSB30DRTR
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2eusb30
+$ENDCMP
+#
+$CMP TPD4E05U06DQAR
+D TVS DIODE 5.5V 14V 10SON
+K TPD4E05U06DQAR
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd4e05u06
+$ENDCMP
+#
+$CMP TPS25910RSAR
+D IC HOT SWAP CTRLR GP 16QFN
+K TPS25910RSAR
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps25910
+$ENDCMP
+#
+$CMP TPS3700DDCR2
+D IC COMP WINDOW W/REF 6SOT
+K TPS3700DDCR2
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftps3700
+$ENDCMP
+#
+$CMP TUSB1002RGER
+D IC TRANSCEIVER FULL 1/1 24VQFN
+K TUSB1002RGER
+F https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftusb1002
+$ENDCMP
+#
+$CMP UMK105B7471KV-F
+D CAP CER 470PF 50V X7R 0402
+K UMK105B7471KV-F
+F https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=UMK105CG121JV-F%20%20&u=M
+$ENDCMP
+#
+$CMP UMK105CG121JV-F
+D CAP CER 120PF 50V NP0 0402
+K UMK105CG121JV-F
+F https://ds.yuden.co.jp/TYCOMPAS/ut/detail?pn=UMK105CG121JV-F%20%20&u=M
+$ENDCMP
+#
+$CMP USB3320C-EZK-TR
+D IC TRANSCEIVER HALF 1/1 32QFN
+K USB3320C-EZK-TR
+F https://www.mouser.vn/datasheet/2/268/00001792A-467994.pdf
+$ENDCMP
+#
+$CMP VREF_FMC
+D Power symbol creates a global label with name "VREF_FMC"
+K VREF_FMC
+$ENDCMP
+#
+$CMP WSL1206R0100DEA
+D RES 0.01 OHM 0.5% 1/4W 1206
+K WSL1206R0100DEA
+F https://www.vishay.com/docs/30122/wslp.pdf
+$ENDCMP
+#
+$CMP WSL20103L000FEA
+D RES 0.003 OHM 1% 1/2W 2010
+K WSL20103L000FEA
+F https://www.vishay.com/docs/30122/wslp.pdf
+$ENDCMP
+#
+$CMP WSL2512R5000FEA
+D RES 0.5 OHM 1% 1W 2512
+K WSL2512R5000FEA
+F https://www.vishay.com/docs/30122/wslp.pdf
+$ENDCMP
+#
+$CMP WSLP12062L000FEA
+D RES 0.002 OHM 1% 1W 1206
+K WSLP12062L000FEA
+F https://www.vishay.com/docs/30122/wslp.pdf
+$ENDCMP
+#
+#End Doc Library

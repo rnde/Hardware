@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPD2EUSB30DRTR
+PartCategory=Diode
+PackageCategory=SO Transistor Flat Lead
+PinCount=3
+Version=3.1
+Released=2016-10-04 11:19:22
+Downloaded=2021-04-20 04:42:00
+3D=Y

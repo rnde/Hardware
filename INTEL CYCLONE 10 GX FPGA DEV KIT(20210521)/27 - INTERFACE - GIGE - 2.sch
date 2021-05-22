@@ -1,0 +1,62 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 27 43
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 7100 900  0    197  ~ 39
+INTERFACE - GIGE - 2
+$Comp
+L INTEL_CYCLONE_10_GX_FPGA_DEV_KIT:88E1111-B2-NDC2C000 U33
+U 2 1 60AEFADA
+P 3900 2100
+F 0 "U33" H 4875 927 50  0000 C CNN
+F 1 "88E1111-B2-NDC2C000" H 4875 836 50  0000 C CNN
+F 2 "INTEL CYCLONE 10 GX FPGA DEV KIT:88E1111-B2-NDC2C000" H 700 1600 50  0001 L CNN
+F 3 "https://www.marvell.com/content/dam/marvell/en/public-collateral/transceivers/marvell-phys-transceivers-alaska-88e1111-datasheet.pdf" H 620 2045 50  0001 L CNN
+F 4 "Marvell Semiconductor, Inc." H 4875 745 50  0000 C CNN "Manufacturer"
+F 5 "88E1111-B2-NDC2C000" H 4875 654 50  0000 C CNN "MPN"
+F 6 "30411-88E1111-B2-NDC2C000 Win Source Electronics" H 4875 563 50  0000 C CNN "Digi-Key_PN"
+	2    3900 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L INTEL_CYCLONE_10_GX_FPGA_DEV_KIT:EP5348UI U36
+U 1 2 60AF740C
+P 10450 3550
+F 0 "U36" H 10400 4379 50  0000 C CNN
+F 1 "EP5348UI" H 10400 4288 50  0000 C CNN
+F 2 "INTEL CYCLONE 10 GX FPGA DEV KIT:QFN40P175X200X95-14N-D" H 9920 5295 50  0001 L CNN
+F 3 "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/en6347qi_05991.pdf" H 9970 5095 50  0001 L CNN
+F 4 "38-QFN (7x4)" H 10400 4197 50  0000 C CNN "Chip Set"
+F 5 "Intel" H 10400 4106 50  0000 C CNN "Manufacturer"
+F 6 "EN6347QI" H 10400 4015 50  0000 C CNN "MPN"
+F 7 "544-2863-2-ND" H 10400 3924 50  0000 C CNN "Digi-Key_PN"
+	1    10450 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L INTEL_CYCLONE_10_GX_FPGA_DEV_KIT:EP5348UI U37
+U 1 2 60AFCD90
+P 10450 5200
+F 0 "U37" H 10400 6029 50  0000 C CNN
+F 1 "EP5348UI" H 10400 5938 50  0000 C CNN
+F 2 "INTEL CYCLONE 10 GX FPGA DEV KIT:QFN40P175X200X95-14N-D" H 9920 6945 50  0001 L CNN
+F 3 "https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/en6347qi_05991.pdf" H 9970 6745 50  0001 L CNN
+F 4 "38-QFN (7x4)" H 10400 5847 50  0000 C CNN "Chip Set"
+F 5 "Intel" H 10400 5756 50  0000 C CNN "Manufacturer"
+F 6 "EN6347QI" H 10400 5665 50  0000 C CNN "MPN"
+F 7 "544-2863-2-ND" H 10400 5574 50  0000 C CNN "Digi-Key_PN"
+	1    10450 5200
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

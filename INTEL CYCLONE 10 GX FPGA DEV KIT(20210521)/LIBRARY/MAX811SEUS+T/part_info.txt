@@ -1,0 +1,9 @@
+Manufacturer=Maxim Integrated
+PartNumber=MAX811SEUS+T
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2018-08-03 14:43:00
+Downloaded=2021-04-20 04:32:46
+3D=Y

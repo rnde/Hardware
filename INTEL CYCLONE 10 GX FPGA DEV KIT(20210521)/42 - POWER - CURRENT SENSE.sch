@@ -1,0 +1,33 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 42 43
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 7250 850  0    197  ~ 39
+POWER - CURRENT SENSE
+$Comp
+L INTEL_CYCLONE_10_GX_FPGA_DEV_KIT:LTC2497CUHF#TRPBF U57
+U 1 1 60CE780C
+P 6850 3150
+F 0 "U57" H 7125 3415 50  0000 C CNN
+F 1 "LTC2497CUHF#TRPBF" H 7125 3324 50  0000 C CNN
+F 2 "INTEL CYCLONE 10 GX FPGA DEV KIT:QFN-38_UHF" H 5145 295 50  0001 L CNN
+F 3 "https://www.mouser.vn/datasheet/2/609/2497fb-1267645.pdf" H 7070 545 50  0001 L CNN
+F 4 "QFN-38" H 5125 600 50  0001 L CNN "Chip Set"
+F 5 "Linear Technology" H 5125 675 50  0001 L CNN "Manufacturer"
+F 6 "LTC2497CUHF#TRPBF" H 5125 500 50  0001 L CNN "MPN"
+F 7 "LTC2497CUHF#TRPBFTR-ND" H 5125 425 50  0001 L CNN "Digi-Key_PN"
+	1    6850 3150
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

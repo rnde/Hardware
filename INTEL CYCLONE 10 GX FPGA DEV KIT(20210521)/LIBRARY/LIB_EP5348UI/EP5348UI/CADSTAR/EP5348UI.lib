@@ -1,0 +1,18 @@
+.EP5348UI :1 ;Conv DC-DC 2.5V to 5.5V Step Down Single-Out 0.6V 0.4A 14-Pin UQFN T/R
+QFN40P175X200X95-14N-D
+*STM IC
+*NGS
+*PLB 1="NC(SW)_1" 2="PGND" 3="NC_1" 4="VFB" 5="AGND" 6="VOUT_1" 7="VOUT_2" 8="NC_2" 9="NC_3" 10="ENABLE" 11="AVIN" 12="PVIN" 13="NC(SW)_2" 14="NC(SW)_3"
+*MXP 14
+*DFN EP5348UI
+~!Manufacturer_Name (Intel)
+~!Manufacturer_Part_Number (EP5348UI)
+~!Mouser Part Number (884-EP5348UI)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Intel-Altera/EP5348UI/?qs=mM5ZU9tM8NdEr7gGApvUzg%3D%3D)
+~!Arrow Part Number (EP5348UI)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ep5348ui/intel)
+~!Link Datasheet (https://www.intel.com/content/dam/altera-www/global/en_US/pdfs/literature/ds/ep5348ui_05721.pdf)
+~!Height (0.95mm)
+~!3D_Model (EP5348UI)
+EP5348UI
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 14.1!U 13.1!U 

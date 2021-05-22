@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model EP5348UI
+#/880866/68843/2.49/14/3/Integrated Circuit
+DEF EP5348UI IC 0 30 Y Y 1 F N
+F0 "IC" 1250 800 50 H V L CNN
+F1 "EP5348UI" 1250 700 50 H V L CNN
+F2 "QFN40P175X200X95-14N-D" 1250 600 50 H I L CNN
+F3 "https://www.intel.com/content/dam/altera-www/global/en_US/pdfs/literature/ds/ep5348ui_05721.pdf" 1250 500 50 H I L CNN
+F4 "Conv DC-DC 2.5V to 5.5V Step Down Single-Out 0.6V 0.4A 14-Pin UQFN T/R" 1250 400 50 H I L CNN "Description"
+F5 "0.95" 1250 300 50 H I L CNN "Height"
+F6 "Intel" 1250 200 50 H I L CNN "Manufacturer_Name"
+F7 "EP5348UI" 1250 100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "884-EP5348UI" 1250 0 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Intel-Altera/EP5348UI/?qs=mM5ZU9tM8NdEr7gGApvUzg%3D%3D" 1250 -100 50 H I L CNN "Mouser Price/Stock"
+F10 "EP5348UI" 1250 -200 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ep5348ui/intel" 1250 -300 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X NC(SW)_1 1 0 0 200 R 50 50 0 0 P
+X PGND 2 0 -100 200 R 50 50 0 0 P
+X NC_1 3 0 -200 200 R 50 50 0 0 P
+X VFB 4 0 -300 200 R 50 50 0 0 P
+X AGND 5 0 -400 200 R 50 50 0 0 P
+X VOUT_1 6 600 -1100 200 U 50 50 0 0 P
+X VOUT_2 7 700 -1100 200 U 50 50 0 0 P
+X PVIN 12 1400 0 200 L 50 50 0 0 P
+X AVIN 11 1400 -100 200 L 50 50 0 0 P
+X ENABLE 10 1400 -200 200 L 50 50 0 0 P
+X NC_3 9 1400 -300 200 L 50 50 0 0 P
+X NC_2 8 1400 -400 200 L 50 50 0 0 P
+X NC(SW)_3 14 600 800 200 D 50 50 0 0 P
+X NC(SW)_2 13 700 800 200 D 50 50 0 0 P
+P 5 0 1 6 200 600 1200 600 1200 -900 200 -900 200 600 N
+ENDDRAW
+ENDDEF
+#
+#End Library

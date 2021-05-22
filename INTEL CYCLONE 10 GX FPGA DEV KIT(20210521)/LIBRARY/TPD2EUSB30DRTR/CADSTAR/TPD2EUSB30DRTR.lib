@@ -1,0 +1,18 @@
+.TPD2EUSB30DRTR :1 ;Texas Instruments TPD2EUSB30DRTR Dual Bi-Directional TVS Diode Array, 45W peak, 3-Pin SOT
+SOTFL35P100X50-3N
+*STM D
+*NGS
+*PLB 1="D+" 2="D-" 3="GND"
+*MXP 3
+*DFN TPD2EUSB30DRTR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPD2EUSB30DRTR)
+~!Mouser Part Number (595-TPD2EUSB30DRTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPD2EUSB30DRTR/?qs=%2Fqzd9s%252BcLd6bPJi5HXCDvw%3D%3D)
+~!Arrow Part Number (TPD2EUSB30DRTR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tpd2eusb30drtr/texas-instruments)
+~!Link Datasheet (http://docs-emea.rs-online.com/webdocs/1520/0900766b81520865.pdf)
+~!Height (0.5mm)
+~!3D_Model (TPD2EUSB30DRTR)
+TPD2EUSB30DRTR
+1.1!U 2.1!U 3.1!U 

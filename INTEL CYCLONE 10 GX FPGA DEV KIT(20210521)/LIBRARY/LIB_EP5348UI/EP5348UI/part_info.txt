@@ -1,0 +1,9 @@
+Manufacturer=Intel
+PartNumber=EP5348UI
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=14
+Version=3.1
+Released=2021-01-26 06:25:38
+Downloaded=2021-04-20 06:05:42
+3D=Y

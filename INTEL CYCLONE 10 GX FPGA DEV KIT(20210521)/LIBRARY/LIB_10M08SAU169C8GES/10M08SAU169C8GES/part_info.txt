@@ -1,0 +1,9 @@
+Manufacturer=Intel
+PartNumber=10M08SAU169C8GES
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=169
+Version=1.1
+Released=2019-12-04 12:29:28
+Downloaded=2021-04-20 04:20:09
+3D=Y

@@ -1,0 +1,33 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 35 43
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 7600 850  0    197  ~ 39
+POWER - 12V to 0.9V
+$Comp
+L INTEL_CYCLONE_10_GX_FPGA_DEV_KIT:EM2130L01QI U49
+U 1 1 60C225A0
+P 8100 4900
+F 0 "U49" H 8025 7131 50  0000 C CNN
+F 1 "EM2130L01QI" H 8025 7040 50  0000 C CNN
+F 2 "INTEL CYCLONE 10 GX FPGA DEV KIT:EM2130H01QI" H 9170 3605 50  0001 L CNN
+F 3 "https://www.mouser.vn/datasheet/2/612/em2130l02_12873-1609280.pdf" H 7720 5145 50  0001 L CNN
+F 4 "100-QFN" H 8025 7313 50  0001 C CNN "Chip Set"
+F 5 "Intel" H 8025 7222 50  0001 C CNN "Manufacturer"
+F 6 "EM2130L01QI" H 8025 7131 50  0001 C CNN "MPN"
+F 7 "544-3360-ND" H 8025 7040 50  0001 C CNN "Digi-Key_PN"
+	1    8100 4900
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
